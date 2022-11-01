@@ -9,3 +9,5 @@ Computational reproducibility can be acheived in a variety of methods, some of m
 * using R projects to contain all packages in compatible versions in a clonable and usable enviroment for others
 * The above applies to git repositories as well: clonable and usable
 * Tracking changes in scripts, retaining past versions and understanding when and who made what change
+
+This is a tester line included to update my file
